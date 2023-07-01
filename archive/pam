@@ -1,0 +1,5 @@
+sonarqube
+./gradlew sonarqube \
+  -Dsonar.projectKey=Gradle-JavaWebApp \
+  -Dsonar.host.url=http://35.164.224.239:9000 \
+  -Dsonar.login=c52d507971ec9f66cdf718b3e7f06e2024b525f9

@@ -29,9 +29,9 @@ test {
 sonarqube {
     properties {
         property "sonar.sourceEncoding", "UTF-8"
-                property "sonar.projectName", "Gradle-JavaWebApp"
+                property "sonar.projectName", "gradle-JavaWebApp"
                 property "sonar.host.url", "http://172.31.7.127:9000"
-                property "sonar.login", "c52d507971ec9f66cdf718b3e7f06e2024b525f9"
+                property "sonar.login", "1457b816a6d7a0cd299e90527afa6924599e209c"
     }
 }
 
